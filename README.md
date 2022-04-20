@@ -1,3 +1,3 @@
 # MegaMessanger
-Create messanger
+Create messanger.
 Вношу изменения в существующий файл, чтобы показать, как фиксируются изменения
