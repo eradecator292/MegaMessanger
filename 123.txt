@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html lang='ru'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Умный дом</title>
+</head>
+<body>
+<h1>Умный дом</h1>
+<img src="D:\UmniyDom.jpg" width="400" height="200" alt="Умный дом"></p>
+<a href="file:///D:/Достоинства и функции.html"> Достоинства и функции
+"Умного дома" </a>
+<p><strong>Что такое "Умный дом"?</p></strong>
