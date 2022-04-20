@@ -26,11 +26,3 @@ with connection.cursor() as cursor:
     connection.close()
 print(df)
 
-# Построение графика
-plt.figure()
-plt.tick_params(axis='x',rotation=360)
-plt.bar(df['HotelName'], df['HotelType'], color = 'green')
-plt.title('"Звёздность" отелей')
-plt.xlabel('HotelName')
-plt.ylabel('HotelType')
-plt.show()
